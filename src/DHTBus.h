@@ -17,7 +17,7 @@
  *   - Raspberry Pi Pico / Pico W (RP2040)
  *   - DHT22 (AM2302) sensor with 4.7kΩ pull-up resistor
  *
- * @author Ângelo
+ * @author Ângelo Moisés Alves
  * @version 1.0.0
  * @license MIT
  */

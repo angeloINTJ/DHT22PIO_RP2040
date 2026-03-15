@@ -7,10 +7,10 @@
  *
  * Wiring:
  *   GP15 ──┬── DHT22 Data (pin 2)
- *           │
- *          4.7kΩ
- *           │
- *          3.3V
+ *          │
+ *        4.7kΩ
+ *          │
+ *        3.3V
  *
  * Open Serial Monitor at 115200 baud to see the output.
  */

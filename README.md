@@ -30,10 +30,10 @@ The entire DHT22 protocol — wake-up pulse, sensor handshake, and 40-bit data c
 
 ```
 Pico GP15 ──┬── DHT22 Data (pin 2)
-             │
-            4.7kΩ
-             │
-            3.3V
+            │
+          4.7kΩ
+            │
+          3.3V
 
 DHT22 VCC (pin 1) ── 3.3V
 DHT22 GND (pin 4) ── GND

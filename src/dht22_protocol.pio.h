@@ -25,7 +25,7 @@
  * @note This header is auto-generated from dht22_protocol.pio.
  *       Do not edit manually unless you understand RP2040 PIO assembly.
  *
- * @author Ângelo
+ * @author Ângelo Moisés Alves
  * @version 1.0.0
  * @license MIT
  */

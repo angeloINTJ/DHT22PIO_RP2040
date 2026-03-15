@@ -1,0 +1,29 @@
+{
+    "name": "DHT22PIO_RP2040",
+    "version": "1.0.0",
+    "description": "Hardware-accelerated DHT22 library using the RP2040 PIO coprocessor. Fully non-blocking, async-friendly, zero bit-banging.",
+    "keywords": [
+        "dht22",
+        "dht",
+        "humidity",
+        "temperature",
+        "pio",
+        "rp2040",
+        "pico",
+        "pico-w",
+        "non-blocking",
+        "hardware-accelerated"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angeloINTJ/DHT22PIO_RP2040.git"
+    },
+    "authors": [
+        {
+            "name": "Ângelo"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "raspberrypi"
+}

@@ -1,0 +1,30 @@
+# ============================================================
+# Syntax Coloring Map for DHT22PIO_RP2040
+# ============================================================
+
+# Classes (KEYWORD1 — orange in Arduino IDE)
+DHTBus	KEYWORD1
+DHT22PIO	KEYWORD1
+
+# Methods (KEYWORD2 — brown)
+begin	KEYWORD2
+setPin	KEYWORD2
+startPIORead	KEYWORD2
+stopPIORead	KEYWORD2
+hasData	KEYWORD2
+readFIFO	KEYWORD2
+requestReading	KEYWORD2
+update	KEYWORD2
+reset	KEYWORD2
+getState	KEYWORD2
+getResults	KEYWORD2
+getLastErrorString	KEYWORD2
+
+# Constants (LITERAL1 — blue)
+IDLE	LITERAL1
+WAITING_PIO	LITERAL1
+DATA_READY	LITERAL1
+ERROR_TIMEOUT	LITERAL1
+ERROR_CHECKSUM	LITERAL1
+PAYLOAD_SIZE	LITERAL1
+TIMEOUT_MS	LITERAL1

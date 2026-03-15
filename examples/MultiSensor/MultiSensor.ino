@@ -7,8 +7,8 @@
  *
  * Wiring (each sensor needs its own 4.7kΩ pull-up to 3.3V):
  *   GP15 ──┬── DHT22 #1 Data     GP16 ──┬── DHT22 #2 Data
- *          4.7kΩ                         4.7kΩ
- *          3.3V                          3.3V
+ *        4.7kΩ                         4.7kΩ
+ *        3.3V                          3.3V
  */
 
 #include <DHTBus.h>

@@ -64,7 +64,7 @@ lib_deps =
 
 ### Arduino Library Manager
 
-*(Coming soon — pending inclusion in the official Arduino Library Manager index.)*
+Open the Arduino IDE, go to **Sketch → Include Library → Manage Libraries...**, search for `DHT22PIO_RP2040` and click **Install**.
 
 ## Quick Start
 
